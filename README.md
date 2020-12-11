@@ -1,5 +1,6 @@
 # mahmudgithub.md
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/mahmudgithub/Markdown-style/)
+![Profile views](https://gpvc.arturio.dev/mahmudgithub)
 ![GitHub repo size](https://img.shields.io/github/repo-size/mahmudgithub/Django-React-CRUD-Operation)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mahmudgithub/Django-React-CRUD-Operation)
 
