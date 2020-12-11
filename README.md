@@ -22,7 +22,6 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/django?logo=github)
 ![PyPI - Django Version](https://img.shields.io/pypi/djversions/djangorestframework?logo=github&style=for-the-badge)
-
 [![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](http://ForTheBadge.com)
 [![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com)
 [![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
