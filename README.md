@@ -20,6 +20,7 @@
 [![HitCount](http://hits.dwyl.io/Naereen/badges.svg)](http://hits.dwyl.io/Naereen/badges)
 ![GitHub followers](https://img.shields.io/github/followers/mahmudgithub?style=plastic) 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Mahmud_Hossain5?logo=twitter&style=plastic)
+
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/django?logo=github)
 ![PyPI - Django Version](https://img.shields.io/pypi/djversions/djangorestframework?logo=github&style=for-the-badge)
