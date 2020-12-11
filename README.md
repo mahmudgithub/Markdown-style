@@ -8,7 +8,6 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/mahmudgithub/Django-React-CRUD-Operation?logo=github&style=plastic) 
 ![GitHub contributors](https://img.shields.io/github/contributors/mahmudgithub/Django-React-CRUD-Operation?logo=github&style=plastic)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/mahmudgithub/Django-React-CRUD-Operation?logo=github&style=plastic)
-
 ![GitHub forks](https://img.shields.io/github/forks/mahmudgithub/Django-React-CRUD-Operation?logo=github&style=plastic)
 ![GitHub Repo stars](https://img.shields.io/github/stars/mahmudgithub/Django-React-CRUD-Operation?logo=github&style=plastic)
 ![GitHub issues](https://img.shields.io/github/issues/mahmudgithub/Django-React-CRUD-Operation?logo=github&style=plastic)
