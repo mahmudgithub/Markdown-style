@@ -15,7 +15,7 @@
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/mahmudgithub?logo=github&style=plastic)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/mahmudgithub/Django-React-CRUD-Operation) 
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/) 
-[![HitCount](http://hits.dwyl.io/Naereen/badges.svg)](http://hits.dwyl.io/Naereen/badges)
+[![HitCount](http://hits.dwyl.io/Naereen/badges.svg)](http://hits.dwyl.io/mahmudgithub/Markdown-style)
 ![GitHub followers](https://img.shields.io/github/followers/mahmudgithub?style=plastic) 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Mahmud_Hossain5?logo=twitter&style=plastic)
 
