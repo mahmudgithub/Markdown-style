@@ -14,7 +14,6 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/mahmudgithub/Django-React-CRUD-Operation?logo=github&style=plastic)
 ![Twitter URL](https://img.shields.io/twitter/url?logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FMahmud_Hossain5)
 ![Twitter URL](https://img.shields.io/twitter/url?logo=twitter&style=plastic&url=https%3A%2F%2Ftwitter.com%2FMahmud_Hossain5)
-![Twitter Follow](https://img.shields.io/twitter/follow/Mahmud_Hossain5?logo=twitter&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/Mahmud_Hossain5?logo=twitter&style=plastic)
 ![GitHub watchers](https://img.shields.io/github/watchers/mahmudgithub/Django-React-CRUD-Operation?logo=github&style=social) 
 ![GitHub watchers](https://img.shields.io/github/watchers/mahmudgithub/Django-React-CRUD-Operation?logo=github&style=plastic)
