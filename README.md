@@ -4,3 +4,7 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mahmudgithub/Django-React-CRUD-Operation)
 ![Lines of code](https://img.shields.io/tokei/lines/github/mahmudgithub/Django-React-CRUD-Operation)
 ![GitHub language count](https://img.shields.io/github/languages/count/mahmudgithub/Django-React-CRUD-Operation)
+![GitHub last commit](https://img.shields.io/github/last-commit/mahmudgithub/Django-React-CRUD-Operation?logo=github&style=plastic) 
+![GitHub contributors](https://img.shields.io/github/contributors/mahmudgithub/Django-React-CRUD-Operation?logo=github&style=plastic)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/mahmudgithub/Django-React-CRUD-Operation?logo=github&style=social) 
+![GitHub pull requests](https://img.shields.io/github/issues-pr/mahmudgithub/Django-React-CRUD-Operation?logo=github&style=plastic)
