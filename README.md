@@ -1,9 +1,8 @@
 # mahmudgithub.md
-
 ![GitHub last commit](https://img.shields.io/github/last-commit/mahmudgithub/Django-React-CRUD-Operation?logo=github&style=plastic) 
 ![GitHub contributors](https://img.shields.io/github/contributors/mahmudgithub/Django-React-CRUD-Operation?logo=github&style=plastic)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/django?logo=github)
-![PyPI - Django Version](https://img.shields.io/pypi/djversions/djangorestframework?logo=github&style=for-the-badge)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/django?logo=github&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/mahmudgithub?logo=github&style=social)
 ![GitHub followers](https://img.shields.io/github/followers/mahmudgithub?style=plastic) 
 ![GitHub forks](https://img.shields.io/github/forks/mahmudgithub/Django-React-CRUD-Operation?style=social)
